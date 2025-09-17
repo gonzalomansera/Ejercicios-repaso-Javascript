@@ -32,3 +32,5 @@ ssh -T git@github.com
  que sirve para hacer una conexión mediante SSH en caso de que al ejecutar este comando te muestra un mensaje dándote un saludo.
 
  ![imagen ssh](/img/conexion.png)
+
+ #### Made By Gonzalo Mansera
