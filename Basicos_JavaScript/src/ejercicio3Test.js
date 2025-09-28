@@ -100,3 +100,12 @@ const cuentaEncontrada = findAccount("Gonzalo");
 assert.strictEqual(cuentaEncontrada.titular, "Gonzalo", "Debe encontrar la cuenta de Gonzalo");
 
 console.log("Todos los tests pasaron correctamente.");
+
+
+
+
+
+
+
+
+// Author: Gonzalo Mansera Ruiz

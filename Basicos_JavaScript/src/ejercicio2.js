@@ -45,3 +45,16 @@ function simular(numTiradas){
  console.log(tirarDado())
 
  console.log(simular(4))
+
+
+
+
+
+
+
+
+
+
+
+
+ // Author: Gonzalo Mansera Ruiz

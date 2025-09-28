@@ -1,0 +1,40 @@
+// Usos de los arrays 
+
+
+//declaracion del array
+const edades = [];
+const frutas = ["Manzana","Pera","Naranja","Platanos"];
+
+//Constructor Array 
+
+const cp = new Array();
+const cc = new Array("hola","adios","bye");
+
+//Acceder a los elementos del array
+frutas[0]; //Manzana
+
+//Añadir elementos al array
+edades.push(12); //Añade al final del array
+edades.unshift(5); //Añade al principio del array
+
+//Eliminar elementos del array
+edades.pop(); //Elimina el ultimo elemento del array y retorna el valor eliminado
+edades.shift(); //Elimina el primer elemento del array y retorna el valor eliminado
+edades.splice(1,1); //Elimina el elemento en la posicion 1 y elimina 1 elemento
+
+//**** slice extrae partes de un array 
+edades.slice(0,2); //Extrae desde la posicion 0 hasta la 2 (sin incluir la 2)
+edades.slice(-1); //Extrae el ultimo elemento del array
+edades.slice(-5); //Extrae los ultimos 5 elementos del array
+edades.slice(1,-1); //Extrae desde la posicion 1 hasta el penultimo elemento del array
+
+
+//***** MUY BUENO  map hay que pasarle una funcion como parametro (se llama callback)
+edades.map((edad)=>{edad*2});
+
+//***** MUY BUENO filter hay que pasarle tambien un callback 
+edades.filter((edad)=>{edad>18});
+
+
+
+

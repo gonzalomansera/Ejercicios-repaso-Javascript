@@ -4,11 +4,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ejercicio3.js"
+    "start": "node ejercicio4.js"
 
   },
   "keywords": [],
-  "author": "",
+  "author": "Gonzalo Mansera",
   "license": "ISC",
   "type": "commonjs",
   "description": ""

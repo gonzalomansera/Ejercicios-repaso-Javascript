@@ -106,3 +106,16 @@ function findAccount(titular) {
 
 //-------------------------Inicializar la aplicacion----------------------------------------
 console.log("Bienvenido a Revolut");
+
+
+
+
+
+
+
+
+
+
+
+
+// Author: Gonzalo Mansera Ruiz
