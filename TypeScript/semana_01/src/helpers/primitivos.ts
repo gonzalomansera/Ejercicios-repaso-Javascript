@@ -213,4 +213,4 @@ console.log(calculadora("sumar", op1));
 console.log(calculadora("restar", op1));        
 console.log(calculadora("multiplicar", op1));   
 console.log(calculadora("dividir", op2));       
-console.log(calculadora("potencia",op1))
+console.log(calculadora("potencia",op1));
